@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://epop.phys.ucalgary.ca/wp-content/uploads/2016/12/Cassiope_labeled.jpg" alt="CASSIOPE instrument">
+<img width= 400 src="https://epop.phys.ucalgary.ca/wp-content/uploads/2016/12/Cassiope_labeled.jpg" alt="CASSIOPE instrument">
 </p>
 
 <p align="center"> Image source / Source de l'image : https://epop.phys.ucalgary.ca/wp-content/uploads/2016/12/Cassiope_labeled.jpg </p>
@@ -8,7 +8,7 @@
 [En Français](#Instruments---CASSIOPE)    
 
 # CASSIOPE - Instruments
-***
+
 CASSIOPE (**CAS**cade, **S**mallsat and **IO**nospheric **P**olar **E**xplore) is a small Canadian satellite from the Canadian Space Agency. There are 8 instruments on this satellite to help scientists expand their knowledge of near-Earth space and space weather (e-POP data). The table below, taken from the University of Calgary [website](https://epop.phys.ucalgary.ca/payload/), summarizes the instruments.
 
 | Instrument | Description | Scientific Output |
@@ -25,7 +25,7 @@ CASSIOPE (**CAS**cade, **S**mallsat and **IO**nospheric **P**olar **E**xplore) i
 To know more about CASSIOPE and its data, check the [handbook](https://epop.phys.ucalgary.ca/data-handbook/) made by the University of Calgary. The current tutorial will only use FAI data.
 
 # Instruments - CASSIOPE
-***
+
 CASSIOPE (**CAS**cade, **S**mallsat and **IO**nospheric **P**olar **E**xplore) est un petit satellite canadien de l'Agence Spatiale Canadienne. Il y a 8 instruments sur ce satellite pour aider les scientifiques à approfondir leurs connaissances de l'espace proche de la Terre et de la météorologie spatiale (données e-POP). Le tableau ci-dessous, provenant du [site web](https://epop.phys.ucalgary.ca/payload/) de l'Université de Calgary, résume les instruments.
 
 | Instrument | Description | Mesure Scientifique |
