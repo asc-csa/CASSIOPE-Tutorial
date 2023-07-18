@@ -1,4 +1,8 @@
+<center>
+  
 ![CASSIOPE logo](https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg)
+
+</center>
 
 [In English](#CASSIOPE-Satellite-Tutorial)    
 [En Français](#Satellite-CASSIOPE-Tutoriel)    
