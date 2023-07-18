@@ -1,10 +1,8 @@
 <p align="center">
-
 <img src="https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg" alt="CASSIOPE logo">
-
-Image source / Source de l'image : https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg
-
 </p>
+
+<p align="center"> Image source / Source de l'image : https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg </p>
 
 [In English](#CASSIOPE-Satellite-Tutorial)    
 [En Français](#Satellite-CASSIOPE-Tutoriel)    
