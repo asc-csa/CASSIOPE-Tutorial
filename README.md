@@ -1,6 +1,6 @@
 <p align="center">
-  
-![CASSIOPE logo](https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg)
+
+<img width="200" src="https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg" alt="CASSIOPE logo">
 
 </p>
 
