@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 ## Expected behavior
 
-Instruments.ipynb summarizes the instruments on CASSIOPE and provides more ressources about the satellite.
+Instruments.ipynb summarizes the instruments on CASSIOPE and provides more ressource about the satellite.
 
 Extract-data-EN.ipynb explains the two data extraction platforms of the University of Calgary.
 
