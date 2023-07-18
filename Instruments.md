@@ -1,8 +1,11 @@
-![Cassiope_labeled-2.jpg](attachment:Cassiope_labeled-2.jpg)
+<p align="center">
+<img src="https://epop.phys.ucalgary.ca/wp-content/uploads/2016/12/Cassiope_labeled.jpg" alt="CASSIOPE instrument">
+</p>
+
+<p align="center"> Image source / Source de l'image : https://epop.phys.ucalgary.ca/wp-content/uploads/2016/12/Cassiope_labeled.jpg </p>
 
 [In English](#CASSIOPE---Instruments)    
 [En Français](#Instruments---CASSIOPE)    
-Image source / Source de l'image : https://epop.phys.ucalgary.ca/payload/
 
 # CASSIOPE - Instruments
 ***
