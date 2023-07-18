@@ -4,6 +4,24 @@
 
 <p align="center"> Image source / Source de l'image : https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg </p>
 
+<p align="center">
+    <a href="#stars">
+        <img alt="Étoiles sur GitHub | GitHub Repo stars" src="https://img.shields.io/github/stars/asc-csa/EO-Visualization-and-Search-Tutorial">
+    </a>
+    <a href="#watchers">
+        <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/EO-Visualization-and-Search-Tutorial">
+    </a>
+    <a href="https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial/commits/main">
+        <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/EO-Visualization-and-Search-Tutorial">
+    </a>
+    <a href="https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial/graphs/contributors">
+        <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/EO-Visualization-and-Search-Tutorial">
+    </a>
+    <a href="https://twitter.com/intent/follow?screen_name=csa_asc">
+        <img alt="Suivre sur Twitter | Twitter Follow" src="https://img.shields.io/twitter/follow/csa_asc?style=social">
+    </a>
+</p>
+
 [In English](#CASSIOPE-Satellite-Tutorial)    
 [En Français](#Satellite-CASSIOPE-Tutoriel)    
 
@@ -11,9 +29,9 @@
 
 ## About
 
-The Canadian CASSIOPE satellite, operated by the University of Calgary, carries the Enhanced Polar Outflow Probe (e-POP) suite of scientific instruments to study the ionosphere, where space meets the upper atmosphere. The instruments collect data about the effects of solar storms and, more specifically, their harmful impact on radio communications, satellite navigation and other space and ground-based technologies.
+The Canadian CASSIOPE satellite (**CAS**cade, **S**mallsat and **IO**nospheric **P**olar **E**xplore), operated by the University of Calgary, carries the Enhanced Polar Outflow Probe (e-POP) suite of scientific instruments to study the ionosphere, where space meets the upper atmosphere. The instruments collect data about the effects of solar storms and, more specifically, their harmful impact on radio communications, satellite navigation and other space and ground-based technologies. To know more about the instruments on CASSIOPE, you can consult a summary table [here](https://epop.phys.ucalgary.ca/payload/).
 
-This tutorial helps to better understand, extract and visualize CASSIOPE satellite data, specifically from the FAI instrument. The scripts are in Python3. To know more about CASSIOPE, go [here](https://epop.phys.ucalgary.ca/). 
+This tutorial helps to better understand, extract and visualize CASSIOPE satellite data, specifically from the FAI instrument. The data visualized in this tutorial is used with the permission of the University of Calgary. The scripts are in Python3. To know more about CASSIOPE, you can go [here](https://epop.phys.ucalgary.ca/). 
 
 ## Before starting
 
@@ -41,9 +59,9 @@ FAI-Video-EN.ipynb is a Python3 script to create a video of FAI pictures.
 
 ## À propos
 
-Le satellite canadien CASSIOPE, exploité par l'université de Calgary, est composé de la suite d'instruments scientifiques e-POP (Enhanced Polar Outflow Probe) pour étudier l'ionosphère, où l'espace rencontre la haute atmosphère. Ces instruments recueillent des données sur les effets des tempêtes solaires et, plus particulièrement, sur leur impact néfaste sur les communications radio, la navigation par satellite et d'autres technologies spatiales et terrestres.
+Le satellite canadien CASSIOPE (**CAS**cade, **S**mallsat and **IO**nospheric **P**olar **E**xplore), exploité par l'université de Calgary, est composé de la suite d'instruments scientifiques e-POP (Enhanced Polar Outflow Probe) pour étudier l'ionosphère, où l'espace rencontre la haute atmosphère. Ces instruments recueillent des données sur les effets des tempêtes solaires et, plus particulièrement, sur leur impact néfaste sur les communications radio, la navigation par satellite et d'autres technologies spatiales et terrestres. Pour en apprendre plus sur les instruments sur CASSIOPE, vous pouvez consulter une table résumée [ici](https://epop.phys.ucalgary.ca/payload/).
 
-Ce tutoriel aide à mieux comprendre, extraire et visualiser les données du satellite CASSIOPE, plus spécifiquement celles de l'instrument FAI. Les scripts sont en Python3. Pour en savoir plus sur CASSIOPE, consultez [ce site](https://epop.phys.ucalgary.ca/).
+Ce tutoriel aide à mieux comprendre, extraire et visualiser les données du satellite CASSIOPE, plus spécifiquement celles de l'instrument FAI. Les données visualisées dans ce tutoriel sont utilisées avec l'autorisation de l'Université de Calgary. Les scripts sont en Python3. Pour en savoir plus sur CASSIOPE, consultez [ce site](https://epop.phys.ucalgary.ca/).
 
 ## Avant de commencer
 
