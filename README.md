@@ -6,16 +6,16 @@
 
 <p align="center">
     <a href="#stars">
-        <img alt="Étoiles sur GitHub | GitHub Repo stars" src="https://img.shields.io/github/stars/asc-csa/EO-Visualization-and-Search-Tutorial">
+        <img alt="Étoiles sur GitHub | GitHub Repo stars" src="https://img.shields.io/github/stars/asc-csa/CASSIOPE-Tutorial">
     </a>
     <a href="#watchers">
-        <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/EO-Visualization-and-Search-Tutorial">
+        <img alt="Spectateurs sur Github | GitHub watchers" src="https://img.shields.io/github/watchers/asc-csa/CASSIOPE-Tutorial">
     </a>
     <a href="https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial/commits/main">
-        <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/EO-Visualization-and-Search-Tutorial">
+        <img alt="Dernier commit sur GitHub | GitHub last commit" src="https://img.shields.io/github/last-commit/asc-csa/CASSIOPE-Tutorial">
     </a>
     <a href="https://github.com/asc-csa/EO-Visualization-and-Search-Tutorial/graphs/contributors">
-        <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/EO-Visualization-and-Search-Tutorial">
+        <img alt="Contributeurs sur GitHub | GitHub contributors" src="https://img.shields.io/github/contributors/asc-csa/CASSIOPE-Tutorial">
     </a>
     <a href="https://twitter.com/intent/follow?screen_name=csa_asc">
         <img alt="Suivre sur Twitter | Twitter Follow" src="https://img.shields.io/twitter/follow/csa_asc?style=social">
