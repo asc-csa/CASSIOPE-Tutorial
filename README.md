@@ -43,17 +43,15 @@ pip install -r requirements.txt
 
 ## Expected behavior
 
-Instruments.ipynb summarizes the instruments on CASSIOPE and provides more ressource about the satellite.
+01-Extract-data.ipynb explains the two data extraction platforms of the University of Calgary.
 
-Extract-data-EN.ipynb explains the two data extraction platforms of the University of Calgary.
+02-FAI-example.ipynb is a Python3 script for visualizing data from the FAI instrument as an example of what we can do.
 
-Data-Availability-EN.ipynb is a Python3 script for visualizing the availability of the data per dates and instruments.
+03-FAI-Video.ipynb is a Python3 script to create a video of FAI pictures.
 
-FAI-example-EN.ipynb is a Python3 script for visualizing data from the FAI instrument as an example of what we can do.
+04-FAI-Map-Projection.ipynb is a Python3 script for visualizing FAI picture with different map projections.
 
-FAI-Map-Projection-EN.ipynb is a Python3 script for visualizing FAI picture with different map projections.
-
-FAI-Video-EN.ipynb is a Python3 script to create a video of FAI pictures.
+05-Data-Availability.ipynb is a Python3 script for visualizing the availability of the data per dates and instruments.
 
 # Satellite-CASSIOPE-Tutoriel
 
@@ -73,14 +71,12 @@ pip install -r requirements.txt
 
 ## Utilisation attendue
 
-Instruments.ipynb résume les instruments de CASSIOPE, en plus de fournir d'autres ressources sur le satellite.
+01-Extraire-Données.ipynb explique les deux plateformes d'extraction de données de l'Université de Calgary.
 
-Extract-data-FR.ipynb explique les deux plateformes d'extraction de données de l'Université de Calgary.
+02-Exemple-FAI.ipynb est un script Python3 pour visualiser les données de l'instrument FAI à titre d'exemple.
 
-Data-Availability-FR.ipynb est un script Python3 pour visualiser la disponibilité des données par dates et instruments.
+03-Vidéo-FAI.ipynb est un script Python3 pour créer une vidéo d'images du FAI.
 
-FAI-example-FR.ipynb est un script Python3 pour visualiser les données de l'instrument FAI à titre d'exemple.
+04-Projection-Cartographique-FAI.ipynb est un script Python3 pour visualiser une image du FAI picture avec différentes projections cartographiques.
 
-FAI-Map-Projection-FR.ipynb est un script Python3 pour visualiser une image du FAI picture avec différentes projections cartographiques.
-
-FAI-Video-FR.ipynb est un script Python3 pour créer une vidéo d'images du FAI.
+05-Disponibilité-Données.ipynb est un script Python3 pour visualiser la disponibilité des données par dates et instruments.
