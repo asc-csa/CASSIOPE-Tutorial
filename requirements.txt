@@ -1,4 +1,4 @@
-basemap==1.2.1
+Cartopy==0.22.0
 h5py==3.7.0
 matplotlib==3.7.1
 numpy==1.24.3
