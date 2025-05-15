@@ -29,7 +29,6 @@
 <a id="titre-du-projet"></a>
 # Tutoriel pour les données du satellite CASSIOPE
 
-<!-- A short summary phrase for the project (required)-->
 > **Description brève :**
 > Ce tutoriel présente comment explorer et visualiser les données du satellite canadien CASSIOPE
 ---
@@ -44,10 +43,32 @@ Ce tutoriel aide à mieux comprendre, extraire et visualiser les données du sat
 - Assurez-vous d'installer les bibliothèques nécessaires à faire fonctionner le tutoriel.
 
 ## Démarrage rapide
- 📥 **Installer les dépendances**
+
+1. 📦 **Cloner le dépôt**
+   ```bash
+   git clone https://github.com/asc-csa/CASSIOPE-Tutorial.git
+   cd CASSIOPE-Tutorial
+   ```
+2. 🐍 **Créer un environnement**
+   ```bash
+   # Avec virtualenv
+   python -m venv env
+   source env/bin/activate
+
+   # Ou avec conda
+   conda create -n cassiope_env
+   conda activate cassiope_env
+   ```
+3. 📥 **Installer les dépendances**
    ```bash
    pip install -r requirements.txt
    ```
+4. 🚀 **Lancer le tutoriel**
+   ```bash
+   jupyter lab
+   ```
+> **Remarque :** Si les graphiques ou cartes ne s’affichent pas, redémarrez Jupyter Notebook ou ajoutez `%matplotlib inline` dans la première cellule.
+
 ## Fonctionnalités
 
 - 01-Extraire-Données.ipynb explique les deux plateformes d'extraction de données de l'Université de Calgary.
@@ -95,13 +116,33 @@ This tutorial helps to better understand, extract and visualize CASSIOPE satelli
 - Make sure to install the requirements for the tutorial.
   
 ## Quick Start
-   
-📥 **Install dependencies**
+
+1. 📦 **Clone the repo**
+   ```bash
+   git clone {{repository_url}}
+   cd {{project_folder}}
+   ```
+2. 🐍 **Create environment**
+   ```bash
+   # Using virtualenv
+   python -m venv env
+   source env/bin/activate
+
+   # Or using conda
+   conda create -n {{env_name}} python={{python_version}}
+   conda activate {{env_name}}
+   ```
+3. 📥 **Install dependencies**
    ```bash
    pip install -r requirements.txt
    ```
+4. 🚀 **Run the tutorial**
+   ```bash
+   jupyter notebook {{notebook_filename}}.ipynb
+   ```
+> **Note:** If plots or maps do not display, restart Jupyter Notebook or run `%matplotlib inline` in the first cell.
 
-## Features
+## Functionality
 
 - 01-Extract-data.ipynb explains the two data extraction platforms of the University of Calgary.
 - 02-FAI-example.ipynb is a Python3 script for visualizing data from the FAI instrument as an example of what we can do.
