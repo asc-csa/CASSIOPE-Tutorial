@@ -119,8 +119,8 @@ This tutorial helps to better understand, extract and visualize CASSIOPE satelli
 
 1. 📦 **Clone the repo**
    ```bash
-   git clone {{repository_url}}
-   cd {{project_folder}}
+   git clone https://github.com/asc-csa/CASSIOPE-Tutorial.git
+   cd CASSIOPE-Tutorial
    ```
 2. 🐍 **Create environment**
    ```bash
@@ -129,8 +129,8 @@ This tutorial helps to better understand, extract and visualize CASSIOPE satelli
    source env/bin/activate
 
    # Or using conda
-   conda create -n {{env_name}} python={{python_version}}
-   conda activate {{env_name}}
+   conda create -n cassiope_env
+   conda activate cassiope_env
    ```
 3. 📥 **Install dependencies**
    ```bash
@@ -138,7 +138,7 @@ This tutorial helps to better understand, extract and visualize CASSIOPE satelli
    ```
 4. 🚀 **Run the tutorial**
    ```bash
-   jupyter notebook {{notebook_filename}}.ipynb
+   jupyter lab
    ```
 > **Note:** If plots or maps do not display, restart Jupyter Notebook or run `%matplotlib inline` in the first cell.
 
