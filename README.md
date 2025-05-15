@@ -39,21 +39,15 @@ Le satellite canadien CASSIOPE (**CAS**cade, **S**mallsat and **IO**nospheric **
 
 Ce tutoriel aide à mieux comprendre, extraire et visualiser les données du satellite CASSIOPE, plus spécifiquement celles de l'instrument Fast Auroral Imager (FAI). Les données visualisées dans ce tutoriel sont utilisées avec l'autorisation de l'Université de Calgary. Les scripts sont en Python3. Pour en savoir plus sur CASSIOPE, consultez [la page officielle](https://epop.phys.ucalgary.ca/).
 
----
-
 ## Prérequis
 
 - Assurez-vous d'installer les bibliothèques nécessaires à faire fonctionner le tutoriel.
-
----
 
 ## Démarrage rapide
  📥 **Installer les dépendances**
    ```bash
    pip install -r requirements.txt
    ```
----
-
 ## Fonctionnalités
 
 - 01-Extraire-Données.ipynb explique les deux plateformes d'extraction de données de l'Université de Calgary.
@@ -88,6 +82,8 @@ Ce projet est  sous une licence MIT modifiée – voir le fichier [LICENSE](http
 
 > **Brief description:**
 > This tutorial shows how to explore and visualize data from the Canadian CASSIOPE satellite.
+
+---
 
 ## About
 The Canadian CASSIOPE satellite (**CAS**cade, **S**mallsat and **IO**nospheric **P**olar **E**xplore), operated by the University of Calgary, carries the Enhanced Polar Outflow Probe (e-POP) suite of scientific instruments to study the ionosphere, where space meets the upper atmosphere. The instruments collect data about the effects of solar storms and, more specifically, their harmful impact on radio communications, satellite navigation and other space and ground-based technologies. To know more about the instruments on CASSIOPE, you can consult a summary table [here](https://epop.phys.ucalgary.ca/payload/).
