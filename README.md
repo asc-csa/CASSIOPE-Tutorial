@@ -1,6 +1,6 @@
 <p align="center">
-   <img src="https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg" alt="CASSIOPE logo" height=300>
-    <br> Crédit d'image | Image credit: <a href="https://www.asc-csa.gc.ca/images/satellites/cassiope_logo.jpg">ASC-CSA</a>
+   <img src="cassiope.jpg" alt="CASSIOPE logo" height=300>
+    <br> Crédit d'image | Image credit: <a href="cassiope.jpg">ASC-CSA</a>
 </p>
 
 <p align="center">
